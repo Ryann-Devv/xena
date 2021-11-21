@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2C2C2C;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    color: #0F1015;
+}
+
+h1 {
+  color: #fff;
+  position: absolute;
+  top:20%;
+  font-size: 20px
+}
+h2 {
+  color: #fff;
+  position: absolute;
+  top: 25%;
+  font-size: 20px
+}
+h3 {
+  color: #fff;
+  position: absolute;
+  top: 30%;
+  font-size: 20px
+}
+h4 {
+  color: #fff;
+  position: absolute;
+  top: 35%;
+  font-size: 20px
+}
+
+hr {
+    width:1%;
+    margin:0 auto;
+  align-items: center;
+  justify-content: center
+}
+
+#linka {
+   color: #fff;
+  position: absolute;
+  left: 90%;
+  font-size: 15px;
+  top: 2%;
+  text-decoration: none
+}
+
+#linkb {
+  color: #fff;
+  position: absolute;
+  left: 25%;
+  font-size: 15px;
+  top: 2%;
+   text-decoration: none
+}
+
+#linkc {
+  color: #fff;
+  position: absolute;
+  left: 40%;
+  font-size: 15px;
+  top: 2%;
+   text-decoration: none
+}
+#linkd {
+  color: #fff;
+  position: absolute;
+  left: 45%;
+  font-size: 25px;
+  top: 2%;
+   text-decoration: none
+}
+
+
+#notice {
+  color: #fff;
+  position: absolute;
+  width: 341.422px;
+  top: 92%;
+  left: 39%;
+  
+  
+}
+
+#LOGO {
+   color: #fff;
+   position: absolute;
+  top: 1%;
+  left: 1%;
+  font-size: 20px;
+  text-decoration: none
+}
